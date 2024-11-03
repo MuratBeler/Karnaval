@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1,MEKSIKA ION
+https://linear-464.frequency.stream/mt/studio/464/hls/master/playlist.m3u8
+#EXTINF:-1,MEKSIKA ION PLUS
+https://linear-463.frequency.stream/mt/studio/463/hls/master/playlist.m3u8
+#EXTINF:-1,MEKSIKA ION MYSTERY
+https://linear-466.frequency.stream/mt/studio/466/hls/master/playlist.m3u8
+#EXTINF:-1,MEKSIKA COURT
+https://linear-465.frequency.stream/mt/studio/465/hls/master/playlist.m3u8
+#EXTINF:-1,MEKSIKA GRIT XTRA
+https://linear-467.frequency.stream/mt/studio/467/hls/master/playlist.m3u8
+#EXTINF:-1,MEKSIKA AZTECA INT
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1,MEKSIKA UMTV
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1,BOLIVYA BOLIVIA
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1,BOLIVYA CINERAMA
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1,KUBA PRENSA LATINA
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1,ARJANTIN 13 MAX
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+#EXTINF:-1,KOLOMBIYA CARARE
+https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
+#EXTINF:-1,KOLOMBIYA MOVIE FE
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1,KOLOMBIYA OASIS
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1,KOLOMBIYA ONDAMBIENTAL
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1,KOLOMBIYA SURAM
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1,KOLOMBIYA TELE VILLA
+https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
+#EXTINF:-1,KOSTA RIKA COLOSAL
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1,KOSTA RIKA EXTREMA
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,KOSTA RIKA LIMON
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:-1,KOSTA RIKA TELESUR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1,KOSTA RIKA TELE UNO
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1,KOSTA RIKA URBANO
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1,KOSTA RIKA ZURQUI
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1,SILI AYSEN
+https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:-1,SILI NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1,EKVADOR INTI
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1,EKVADOR WUAN PLUS
+https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
+#EXTINF:-1,EKVADOR ZARACAY
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:-1,GUATEMALA AMIGOS
+https://tv91.hostingnuclear.com:19360/amigostv/amigostv.m3u8
+#EXTINF:-1,EKVATOR GINESI SOL
+https://stream.solmediaeg.com/soltv/soltv.m3u8
+#EXTINF:-1,HONDURAS DTV
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1,HONDURAS LTV
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+#EXTINF:-1,HONDURAS METRO
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-1,NIKARAGUA MEGA BOX
+https://hdbox.chunklistv.com/live?stream=megabox
+#EXTINF:-1,NIKARAGUA WTV
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+#EXTINF:-1,PANAMA HISPANIA
+https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+#EXTINF:-1,PARAGUAY ABC
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1,PARAGUAY VENUS MEDIA
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+#EXTINF:-1,PERU ASIRI
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1,PERU DMJ
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1,PERU LIMA LIVE
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
+#EXTINF:-1,PORTO RIKO MASTER VIDEO
+https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
+#EXTINF:-1,DOMINIK CUMHURIYETI CROM
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+#EXTINF:-1,DOMINIK CUMHURIYETI TELE TUR
+https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+#EXTINF:-1,EL SALVADOR TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1,EL SALVADOR GETSEMANI
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:-1,URUGUAY CANAL U
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1,VENEZUELLA CANTINA
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1,VENEZUELLA GUARO
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1,VENEZUELLA INTER
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+#EXTINF:-1,VENEZUELLA ONZA
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1,LOGOS KIDS Ispanya
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1,ISPANYA RAKUTEN FAMILY
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,ISPANYA PUNT 3
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1,ISPANYA LIRA
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1,ISPANYA ACTIVA
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1,ISPANYA CANAL 1
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+#EXTINF:-1,ISPANYA CANAL 2 Alpavision neiva
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1,ISPANYA CANAL 3 Impresionante
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+#EXTINF:-1,ISPANYA CANAL 3 Kmk
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1,ISPANYA CANAL 3 Las heras
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1,ISPANYA CANAL 5 Pico truncado
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1,ISPANYA CANAL 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1,ISPANYA CANAL 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1,ISPANYA CANAL 13 La rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1,ISPANYA CANAL 14 Codazzi
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1,ISPANYA CANAL 14 San carlos
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1,ISPANYA CANAL 24 Horas canarias
+https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
+#EXTINF:-1,ISPANYA CANAL 74 San antonio
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
